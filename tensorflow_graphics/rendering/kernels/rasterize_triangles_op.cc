@@ -15,7 +15,7 @@ limitations under the License.
 #include <algorithm>
 #include <vector>
 
-#include "py/tensorflow_graphics/rendering/kernels/rasterize_triangles_impl.h"
+#include "rasterize_triangles_impl.h"
 #include "tensorflow/core/framework/op.h"
 #include "tensorflow/core/framework/op_kernel.h"
 
